@@ -19,7 +19,7 @@ kullanırız
 Not: git log --oneline --> commitlerimdeki yani
 versiyonlarimdaki durumu gosterir
 
-Not: Githup ogrendim
+Not: Githup ogrendim ..
 
   */
 }
